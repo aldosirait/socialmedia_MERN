@@ -1,0 +1,4 @@
+{
+    "mongoURL": "mongodb+srv://aldosirait:simanjuntak70@podacluster.1ruwt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jsonWebTokenSecret": "kimakmanehanyingbagudung"
+}
